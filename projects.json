@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Project Title One",
+        "description": "A brief description of the project goes here. This could include its purpose or functionality.",
+        "url": "https://github.com/username/project-one"
+    },
+    {
+        "title": "Project Title Two",
+        "description": "Another project description goes here. Highlight its key features or purpose.",
+        "url": "https://github.com/username/project-two"
+    },
+    {
+        "title": "Project Title Three",
+        "description": "This project focuses on solving specific problems using innovative approaches.",
+        "url": "https://github.com/username/project-three"
+    }
+]
