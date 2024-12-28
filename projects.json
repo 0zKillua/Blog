@@ -1,17 +1,34 @@
 [
     {
-        "title": "Project Title One",
-        "description": "A brief description of the project goes here. This could include its purpose or functionality.",
-        "url": "https://github.com/username/project-one"
+        "title": "Liquid Vest.",
+        "description": "LiquidVest is a protocol designed to tokenize and sell future receivables at a discount, providing liquidity to projects with locked assets.",
+        "url": "https://github.com/0zKillua/LiquidVest"
     },
     {
-        "title": "Project Title Two",
-        "description": "Another project description goes here. Highlight its key features or purpose.",
-        "url": "https://github.com/username/project-two"
+        "title": "Algo Trading Smart Contract",
+        "description": "Project implements an algorithmic trading strategy using Ethereum smart contracts. Interacts with Uniswap & AAVE V3",
+        "url": "https://github.com/0zKillua/Defi_Algo_Trading"
     },
     {
-        "title": "Project Title Three",
-        "description": "This project focuses on solving specific problems using innovative approaches.",
-        "url": "https://github.com/username/project-three"
+        "title": "erc1155",
+        "description": "MultiToken standard Locker with Vesting feature.",
+        "url": "https://github.com/0zKillua/erc1155Locker"
+    },
+    {
+        "title": "RWA V2",
+        "description": "Real World Asset Tokenisation",
+        "url": "https://github.com/0zKillua/RWA_v2"
+    },
+    {
+        "title": "Leverage Trading",
+        "description": "A Toy project demonstrating a simple leverage trading system",
+        "url": "https://github.com/0zKillua/Leverage-Dapp"
+        
+    },
+    {
+         "title": "PockETH",
+        "description": "A chain agnostic fund pooling system. ",
+        "url": "https://github.com/0zKillua/pockETH"
     }
+    
 ]
