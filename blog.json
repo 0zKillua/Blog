@@ -1,12 +1,34 @@
 [
-  {
-    "title": "QuantAMM - BTFs",
-    "description": "How QuantAMM is changinf Defi asset Management",
-    "url": "https://killuaxyz.hashnode.dev/how-quantamm-is-changing-defi-asset-management"
-  },
-  {
-    "title": "Concentrated Liquidity",
-    "description": "Read about How Uniswap V3 improves it's Capital Efficiency",
-    "url": "https://killuaxyz.hashnode.dev/uniswap-v3-the-power-of-concentrated-liquidity"
-  },
+    {
+        "title": "Liquid Vest",
+        "description": "LiquidVest is a protocol designed to tokenize and sell future receivables at a discount, providing liquidity to projects with locked assets.",
+        "url": "https://github.com/0zKillua/LiquidVest"
+    },
+    {
+        "title": "AlgoTrading SmartContract",
+        "description": "Project implements an algorithmic trading strategy using Ethereum smart contracts. Interacts with Uniswap & AAVE V3",
+        "url": "https://github.com/0zKillua/Defi_Algo_Trading"
+    },
+    {
+        "title": "ERC1155",
+        "description": "MultiToken standard Locker with Vesting feature.",
+        "url": "https://github.com/0zKillua/erc1155Locker"
+    },
+    {
+        "title": "RWA V2",
+        "description": "Real World Asset Tokenisation",
+        "url": "https://github.com/0zKillua/RWA_v2"
+    },
+    {
+        "title": "Leverage Trading",
+        "description": "A Toy project demonstrating a simple leverage trading system",
+        "url": "https://github.com/0zKillua/Leverage-Dapp"
+        
+    },
+    {
+         "title": "PockETH",
+        "description": "A chain agnostic fund pooling system. ",
+        "url": "https://github.com/0zKillua/pockETH"
+    }
+    
 ]
