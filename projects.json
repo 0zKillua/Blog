@@ -1,16 +1,16 @@
 [
     {
-        "title": "Liquid Vest.",
+        "title": "Liquid Vest",
         "description": "LiquidVest is a protocol designed to tokenize and sell future receivables at a discount, providing liquidity to projects with locked assets.",
         "url": "https://github.com/0zKillua/LiquidVest"
     },
     {
-        "title": "Algo Trading Smart Contract",
+        "title": "AlgoTrading SmartContract",
         "description": "Project implements an algorithmic trading strategy using Ethereum smart contracts. Interacts with Uniswap & AAVE V3",
         "url": "https://github.com/0zKillua/Defi_Algo_Trading"
     },
     {
-        "title": "erc1155",
+        "title": "ERC1155",
         "description": "MultiToken standard Locker with Vesting feature.",
         "url": "https://github.com/0zKillua/erc1155Locker"
     },
