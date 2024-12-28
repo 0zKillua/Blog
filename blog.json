@@ -1,10 +1,12 @@
 {
   {
-  "title":"QuantAMM - TFMM",
-  "description":"How QuantAMM is changinf Defi asset Management"
+  "title":"QuantAMM - BTFs",
+  "description":"How QuantAMM is changinf Defi asset Management",
+  "url":"https://killuaxyz.hashnode.dev/how-quantamm-is-changing-defi-asset-management"
   }
   {
   "title":"Concentrated Liquidity",
-  "description": "Read about How Uniswap V3 improves it's Capital Efficiency"
+  "description": "Read about How Uniswap V3 improves it's Capital Efficiency",
+  "url":"https://killuaxyz.hashnode.dev/uniswap-v3-the-power-of-concentrated-liquidity"
   }
 }
