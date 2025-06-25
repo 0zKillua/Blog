@@ -1,33 +1,32 @@
 [
   {
     "title": "QuantAMM - BTFs",
-    "description": " \" ... read about how QuantAMM is changing Defi asset Management \" ",
+    "description": "... read about how QuantAMM is changing Defi asset Management",
     "url": "https://killuaxyz.hashnode.dev/how-quantamm-is-changing-defi-asset-management"
   },
   {
     "title": "Concentrated Liquidity - Uniswap V3",
-    "description": " \"... read about How Uniswap V3 improves it's Capital Efficiency \" ",
+    "description": "... read about How Uniswap V3 improves its Capital Efficiency",
     "url": "https://killuaxyz.hashnode.dev/uniswap-v3-the-power-of-concentrated-liquid"
   },
-  
   {
     "title": "Eigen Layer",
-    "description": " \".... read about how EL is Redefining Ethereum’s Trust Layer and Unlocking a New Era of Smart Contract Innovation \" ",
+    "description": "... read about how EL is Redefining Ethereum’s Trust Layer and Unlocking a New Era of Smart Contract Innovation",
     "url": "https://killuaxyz.hashnode.dev/eigenlayer"
   },
   {
     "title": "ERC-6492-Future smart contract wallets",
-    "description": " \".... read about What You Need to Know About Future Smart Contract Wallets \" ",
+    "description": "... read about What You Need to Know About Future Smart Contract Wallets",
     "url": "https://killuaxyz.hashnode.dev/erc-6492-what-you-need-to-know-about-future-smart-contract-wallets-part-1"
   },
   {
     "title": "Part 2: The ERC-6492",
-    "description": " \".... read about Exploiting Counterfactual Signature Verification \" ",
+    "description": "... read about Exploiting Counterfactual Signature Verification",
     "url": "https://killuaxyz.hashnode.dev/part-2-the-erc-6492-exploiting-counterfactual-signature-verification?source=more_articles_bottom_blogs"
   },
   {
     "title": "Pos Vs PoL",
-    "description": " \".... read about Proof of Liquidity vs Proof of Stake\" ",
+    "description": "... read about Proof of Liquidity vs Proof of Stake",
     "url": "https://killuaxyz.hashnode.dev/proof-of-liquidity-vs-proof-of-stake"
   }
 ]
